@@ -99,6 +99,8 @@ const Navbar = () => {
             </div>
         </Box>
     );
+    console.log("3");
+    
 
     return (
         <div className="flex text-center items-center p-5 px-10 md:px-20 xl:px-30" >
